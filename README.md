@@ -1,5 +1,16 @@
-# tip
-- 깃허브 배경을 다크로 변경하시면 코드가 더 이쁘게 보입니다.
+# 배경 색 변경
+
+## 1.
+![image](https://user-images.githubusercontent.com/104752202/224184407-896fd9fe-5506-43b3-a8b2-45ae35d77632.png)
+
+## 2.
+![image](https://user-images.githubusercontent.com/104752202/224184484-7c6653d8-d65f-48ac-b265-05cd20b6f3d0.png)
+
+<br>
+
+__Tip__ 깃허브 배경을 Dark default로 변경하시면 코드가 더 이쁘게 보입니다.
+
+<br>
 
 # 방법
 
@@ -11,7 +22,7 @@
 
 <br>
 
-# 예시
+# 코드 색 
 
 ## java
 
