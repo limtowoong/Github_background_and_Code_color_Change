@@ -1,7 +1,5 @@
 # 배경 색 변경
 
-<br>
-
 ##   1.
   ![image](https://user-images.githubusercontent.com/104752202/224184407-896fd9fe-5506-43b3-a8b2-45ae35d77632.png)
 
