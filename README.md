@@ -8,10 +8,6 @@
 
 <br>
 
- __Tip__ 깃허브 배경을 Dark default로 변경하시면 코드가 더 이쁘게 보입니다.
-
-<br>
-
 # 방법
 
         ```해당언어(java, css, javascript, html)
