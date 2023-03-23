@@ -1,10 +1,13 @@
 # 배경 색 변경
 
 ##   1.
-  ![image](https://user-images.githubusercontent.com/104752202/224184407-896fd9fe-5506-43b3-a8b2-45ae35d77632.png)
+  ![image](https://user-images.githubusercontent.com/104752202/227127844-97ea098c-f3ef-41c1-9c77-d6f65d9e40c0.png)
 
 ##   2.
-  ![image](https://user-images.githubusercontent.com/104752202/224184484-7c6653d8-d65f-48ac-b265-05cd20b6f3d0.png)
+  ![image](https://user-images.githubusercontent.com/104752202/227127972-0e9a2cdb-25bf-43be-bc3e-1ea856ce7437.png)
+
+##   3.
+  ![image](https://user-images.githubusercontent.com/104752202/227128107-bb3b0e6e-1c5e-45e4-9a93-0f5c76675d34.png)
 
 <br>
 
